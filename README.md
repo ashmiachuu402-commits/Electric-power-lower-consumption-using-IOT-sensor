@@ -1,0 +1,2 @@
+# Electric-power-lower-consumption-using-IOT-sensor
+This project helps reduce electricity consumption using sensorbased automation. The system detects human presence and automatically controls lights and electrical devices. When no activity is detected, the devices are switched off to prevent energy wastage. It is an efficient, cost-effective, and eco-friendly solution for smart energy management. 
